@@ -129,7 +129,7 @@ export default function Home() {
             </form>
           </DialogContent>
         </Dialog>
-        <Button variant="outline">Manual Trade</Button>
+        <Button variant="outline">Connect Wallet</Button>
       </div>
       <Card>
         <CardHeader>
