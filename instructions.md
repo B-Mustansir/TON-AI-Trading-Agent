@@ -266,7 +266,7 @@ const nacl = require("tweetnacl");
 ```python
 const TonWeb = require('tonweb');
 const tonweb = new TonWeb(new TonWeb.HttpProvider('https://testnet.toncenter.com/api/v2/jsonRPC', {
-  api_key: 'c666b32d76aa2499d5645482beff6e8c342bce362052dfcbef20feb5cde652ac'
+  api_key: 'YOUR_API_KEY_HERE'
 }));
 
 async function getJettonWallet() {

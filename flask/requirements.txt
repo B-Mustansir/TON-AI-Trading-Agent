@@ -1,0 +1,8 @@
+flask
+flask-sqlalchemy
+telethon
+selenium
+webdriver-manager
+ton-sdk
+python-dotenv
+requests
