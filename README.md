@@ -74,7 +74,7 @@ We welcome contributions to enhance the bot's features or performance. To contri
 ---
 
 ## *License*
-This project is licensed under the [MIT License](LICENSE).
+This project is currently not licensed. If you intend to use, modify, or distribute this project, please contact the project maintainer for more information.
 
 ---
 
